@@ -39,7 +39,7 @@ It collects component health statuses using HTTP agent and dependent items, and 
 
 ## Installation
 
-1. Open **Configuration → Templates** in Zabbix UI.  
+1. Open **Data collection → Templates** in Zabbix UI.  
 2. Click **Import**, select `airflow_template.yaml`.  
 3. Ensure version compatibility (**Zabbix 7.2** or higher).  
 4. Assign the template to a host that can reach the Airflow API.
